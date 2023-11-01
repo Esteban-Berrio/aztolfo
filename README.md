@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Esteban <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">"I'm Esteban, an information systems analyst and developer, front-end developer, and QA automator."</h3>
 
-- 🔭 I’m currently working on my **Python Course**
+🌱 I’m currently learning JavaScript, HTML5, CSS3, PHP, Java, Python, SQL
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+👯 I’m looking to collaborate on front-end, database, back-end projects
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
-
-- 📫 How to reach me: **brantlauro@gmail.com**
-
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+📫 How to reach me: oujima2003@gmail.com
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
