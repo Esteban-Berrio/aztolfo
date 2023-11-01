@@ -1,3 +1,7 @@
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+
 <h1 align="center">Hi 👋, I'm Esteban <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">"I'm Esteban, an information systems analyst and developer, front-end developer, and QA automator."</h3>
 
@@ -31,7 +35,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <i class="devicon-git-plain colored" alt="git" width="40" height="40"></i>       
   </a>
 </p>
 
