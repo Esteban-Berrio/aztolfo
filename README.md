@@ -1,10 +1,10 @@
 
-  <a href="#">
-    <h1 align="center">Hi 👋, I'm Esteban <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-  </a>
-  <a href="#">
-    <h3 align="center">"I'm Esteban, an information systems analyst and developer, front-end developer, and QA automator."</h3>
-  </a>
+
+  <h1 align="center">Hi 👋, I'm Esteban <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+
+
+  <h3 align="center">"I'm Esteban, an information systems analyst and developer, front-end developer, and QA automator."</h3>
+
 
   🌱 I’m currently learning JavaScript, HTML5, CSS3, PHP, Java, Python, SQL
 
@@ -65,6 +65,4 @@
   </p>
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-</body>
 
-</html>
