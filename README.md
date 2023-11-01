@@ -1,5 +1,5 @@
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
           
 
 <h1 align="center">Hi 👋, I'm Esteban <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
@@ -52,5 +52,7 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=aztolfo&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aztolfo&theme=react&layout=compact" />
 </p>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 ------
